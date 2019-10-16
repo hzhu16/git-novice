@@ -11,12 +11,12 @@ keypoints:
 -   "Use `git config` with the `--global` option to configure a user name, email address, editor, and other preferences once per machine."
 ---
 
-When we use Git on a new computer for the first time,
-we need to configure a few things. Below are a few examples
+_When we use Git on a new computer for the first time,
+we need to configure a few things._ Below are a few examples
 of configurations we will set as we get started with Git:
 
-*   our name and email address,
-*   what our preferred text editor is,
+*   our _name_ and _email address_,
+*   what our preferred _text editor_ is,
 *   and that we want to use these settings globally (i.e. for every project).
 
 On a command line, Git commands are written as `git verb options`,
