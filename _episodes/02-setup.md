@@ -11,13 +11,13 @@ keypoints:
 -   "Use `git config` with the `--global` option to configure a user name, email address, editor, and other preferences once per machine."
 ---
 
-_When we use Git on a new computer for the first time,
-we need to configure a few things._ Below are a few examples
+**When we use Git on a new computer for the first time,
+we need to configure a few things.** Below are a few examples
 of configurations we will set as we get started with Git:
 
-*   our _name_ and _email address_,
-*   what our preferred _text editor_ is,
-*   and that we want to use these settings globally (i.e. for every project).
+*   our **name** and **email address**,
+*   what our preferred **text editor** is,
+*   and that we want to use these settings **globally** (i.e. for every project).
 
 On a command line, Git commands are written as `git verb options`,
 where `verb` is what we actually want to do and `options` is additional optional information which may be needed for the `verb`. So here is how
@@ -30,14 +30,14 @@ $ git config --global user.email "vlad@tran.sylvan.ia"
 {: .language-bash}
 
 Please use your own name and email address instead of Dracula's. This user name and email will be associated with your subsequent Git activity,
-which means that any changes pushed to
+which means that **any changes** pushed to
 [GitHub](https://github.com/),
 [BitBucket](https://bitbucket.org/),
 [GitLab](https://gitlab.com/) or
 another Git host server
-in a later lesson will include this information.
+in a later lesson **will include this information**.
 
-For these lessons, we will be interacting with [GitHub](https://github.com/) and so the email address used should be the same as the one used when setting up your GitHub account. If you are concerned about privacy, please review [GitHub's instructions for keeping your email address private][git-privacy]. 
+For these lessons, we will be interacting with **[GitHub]**(https://github.com/) and so the email address used should be the same as the one used when setting up your GitHub account. If you are concerned about privacy, please review [GitHub's instructions for keeping your email address private][git-privacy]. 
 
 >## Keeping your email private
 >
@@ -77,7 +77,7 @@ For these lessons, we will be interacting with [GitHub](https://github.com/) and
 > 
 
 
-Dracula also has to set his favorite text editor, following this table:
+Dracula also has to set his **favorite text editor**, following this table:
 
 | Editor             | Configuration command                            |
 |:-------------------|:-------------------------------------------------|
